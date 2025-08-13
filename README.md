@@ -8,7 +8,7 @@
 - 💻 Specializing in **Flutter, Firebase, and Full-Stack Web Development**  
 - 📱 Passionate about building scalable and user-friendly applications  
 - 📫 Reach me at **kmustajab89@gmail.com**  
-- 🌐 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/kainat-m-1b28b72a7/)) | [GitHub]([https://github.com/yourusername](https://github.com/kmustajabjava)
+- 🌐 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/kainat-m-1b28b72a7/)) | [GitHub]([https://github.com/yourusername](https://github.com/kmustajabjava))
 
 ---
 
@@ -139,10 +139,7 @@ A notes management app (planned) with local database storage and animations.
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kmustajabjava&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmustajabjava&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmustajabjava&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kmustajabjava&theme=tokyo-night)
 
 ---
 
