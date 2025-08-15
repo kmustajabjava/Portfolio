@@ -26,10 +26,7 @@
 
 ## 📂 Featured Projects
 
-<details>
-<summary>❄️ Cold Storage Inventory & Loan Management App *(Company Project)*</summary>
-<br>
-
+### ❄️ Cold Storage Inventory & Loan Management App *(Company Project)*
 A mobile app for inventory management, loan tracking, and payment handling in cold storage facilities.  
 - Role-based authentication with localization (English/Urdu)  
 - SSL integration for secure API communication  
@@ -45,14 +42,9 @@ A mobile app for inventory management, loan tracking, and payment handling in co
   <img src="images/cold4.jpg" height="400"/>
 </p>
 
-</details>
-
 ---
 
-<details>
-<summary>🩺 Medical Patient Registry App *(Company Project)*</summary>
-<br>
-
+### 🩺 Medical Patient Registry App *(Company Project)*
 A medical registry app for managing patient data, enabling file uploads, image compression, and Excel report generation.  
 - Image compression using Dart isolates for optimized uploads  
 - REST API integration with custom error handling  
@@ -67,18 +59,13 @@ A medical registry app for managing patient data, enabling file uploads, image c
   <img src="images/med3.jpg" height="400"/>
 </p>
 
-</details>
-
 ---
 
-<details>
-<summary>🚗 ParkEase — Smart Parking Management *(Final Year Project)*</summary>
-<br>
-
+### 🚗 ParkEase — Smart Parking Management *(Final Year Project)*
 A smart parking management app with separate customer & admin panels.  
 - Slot availability checking & booking based on time/type (shaded/unshaded)  
 - Real-time slot management with GetX  
-- Payment calculation based on duration 
+- Payment calculation based on duration  
 
 **Tech Stack:** Flutter, Dart, Firebase, Firestore, GetX, Google Maps API, Android Studio  
 
@@ -90,14 +77,9 @@ A smart parking management app with separate customer & admin panels.
   <img src="images/park4.jpg" height="400"/>
 </p>
 
-</details>
-
 ---
 
-<details>
-<summary>🔐 Login App — Onboarding & Google Sign-In</summary>
-<br>
-
+### 🔐 Login App — Onboarding & Google Sign-In
 A simple onboarding & authentication app with animations.  
 - Firebase Authentication  
 - Google Sign-In integration  
@@ -113,14 +95,9 @@ A simple onboarding & authentication app with animations.
   <img src="images/login4.jpg" height="400"/>
 </p>
 
-</details>
-
 ---
 
-<details>
-<summary>🛒 E-commerce App UI</summary>
-<br>
-
+### 🛒 E-commerce App UI
 UI design for a modern e-commerce mobile app.  
 - Product listing pages  
 - Product detail view  
@@ -135,8 +112,6 @@ UI design for a modern e-commerce mobile app.
   <img src="images/ecom2.jpg" height="400"/>
   <img src="images/ecom3.jpg" height="400"/>
 </p>
-
-</details>
 
 ---
 
