@@ -5,10 +5,10 @@
 ---
 
 ## 🌟 About Me
-- 💻 Specializing in **Mobile Application Development - Flutter**  
-- 📱 Passionate about building scalable and user-friendly applications  
-- 📫 Reach me at **kmustajab89@gmail.com**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kainat-m-1b28b72a7/) | [GitHub](https://github.com/kmustajabjava)
+- Specializing in **Mobile Application Development - Flutter**  
+- Passionate about building scalable and user-friendly applications  
+- Reach me at **kmustajab89@gmail.com**  
+- [LinkedIn](https://www.linkedin.com/in/kainat-m-1b28b72a7/) | [GitHub](https://github.com/kmustajabjava)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 📂 Featured Projects
 
-### ▶❄️ Cold Storage Inventory & Loan Management App *(Company Project)*
+### 1. Cold Storage Inventory & Loan Management App *(Company Project)*
 A mobile app for inventory management, loan tracking, and payment handling in cold storage facilities.  
 - Role-based authentication with localization (English/Urdu)  
 - SSL integration for secure API communication  
@@ -44,7 +44,7 @@ A mobile app for inventory management, loan tracking, and payment handling in co
 
 ---
 
-### ▶🩺 Medical Patient Registry App *(Company Project)*
+### 2. Medical Patient Registry App *(Company Project)*
 A medical registry app for managing patient data, enabling file uploads, image compression, and Excel report generation.  
 - Image compression using Dart isolates for optimized uploads  
 - REST API integration with custom error handling  
@@ -61,7 +61,7 @@ A medical registry app for managing patient data, enabling file uploads, image c
 
 ---
 
-### ▶🚗 ParkEase — Smart Parking Management *(Final Year Project)*
+### 3. ParkEase — Smart Parking Management *(Final Year Project)*
 A smart parking management app with separate customer & admin panels.  
 - Slot availability checking & booking based on time/type (shaded/unshaded)  
 - Real-time slot management with GetX  
@@ -79,7 +79,7 @@ A smart parking management app with separate customer & admin panels.
 
 ---
 
-### ▶🔐 Login App — Onboarding & Google Sign-In
+### 4. Login App — Onboarding & Google Sign-In
 A simple onboarding & authentication app with animations.  
 - Firebase Authentication  
 - Google Sign-In integration  
@@ -97,7 +97,7 @@ A simple onboarding & authentication app with animations.
 
 ---
 
-### ▶🛒 E-commerce App UI
+### 5. E-commerce App UI
 UI design for a modern e-commerce mobile app.  
 - Product listing pages  
 - Product detail view  
