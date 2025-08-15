@@ -39,10 +39,10 @@ A mobile app for inventory management, loan tracking, and payment handling in co
 
 **📷 Screenshots:**  
 <p align="center">
-  <img src="images/cold1.png" width="200" />
-  <img src="images/cold2.png" width="200" />
-  <img src="images/cold3.png" width="200" />
-  <img src="images/cold4.png" width="200" />
+  <img src="images/cold1.jpg" width="200" />
+  <img src="images/cold2.jpg" width="200" />
+  <img src="images/cold3.jpg" width="200" />
+  <img src="images/cold4.jpg" width="200" />
 </p>
 
 </details>
@@ -62,9 +62,9 @@ A medical registry app for managing patient data, enabling file uploads, image c
 
 **📷 Screenshots:**  
 <p align="center">
-  <img src="images/med1.png" width="200" />
-  <img src="images/med2.png" width="200" />
-  <img src="images/med3.png" width="200" />
+  <img src="images/med1.jpg" width="200" />
+  <img src="images/med2.jpg" width="200" />
+  <img src="images/med3.jpg" width="200" />
 </p>
 
 </details>
@@ -85,10 +85,10 @@ A smart parking management app with separate customer & admin panels.
 **🎥 Demo + Screenshots:**  
 <p align="center">
   <img src="images/park-demo.gif" width="200" />
-  <img src="images/park1.png" width="200" />
-  <img src="images/park2.png" width="200" />
-  <img src="images/park3.png" width="200" />
-  <img src="images/park4.png" width="200" />
+  <img src="images/park1.jpg" width="200" />
+  <img src="images/park2.jpg" width="200" />
+  <img src="images/park3.jpg" width="200" />
+  <img src="images/park4.jpg" width="200" />
 </p>
 
 </details>
@@ -109,10 +109,10 @@ A simple onboarding & authentication app with animations.
 **🎥 Demo + Screenshots:**  
 <p align="center">
   <img src="images/login-demo.gif" width="200" />
-  <img src="images/login1.png" width="200" />
-  <img src="images/login2.png" width="200" />
-  <img src="images/login3.png" width="200" />
-  <img src="images/login4.png" width="200" />
+  <img src="images/login1.jpg" width="200" />
+  <img src="images/login2.jpg" width="200" />
+  <img src="images/login3.jpg" width="200" />
+  <img src="images/login4.jpg" width="200" />
 </p>
 
 </details>
@@ -133,10 +133,10 @@ UI design for a modern e-commerce mobile app.
 **🎥 Demo + Screenshots:**  
 <p align="center">
   <img src="images/ecom-demo.gif" width="200" />
-  <img src="images/ecom1.png" width="200" />
-  <img src="images/ecom2.png" width="200" />
-  <img src="images/ecom3.png" width="200" />
-  <img src="images/ecom4.png" width="200" />
+  <img src="images/ecom1.jpg" width="200" />
+  <img src="images/ecom2.jpg" width="200" />
+  <img src="images/ecom3.jpg" width="200" />
+  <img src="images/ecom4.jpg" width="200" />
 </p>
 
 </details>
