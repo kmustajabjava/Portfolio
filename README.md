@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Flutter & Web developer 🚀</h3>
+<h1 align="center">Hi 👋, I'm Kainat Mustajab</h1>
+<h3 align="center">A passionate Flutter Developer 🚀</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 💻 Specializing in **Flutter, Firebase, and Full-Stack Web Development**  
 - 📱 Passionate about building scalable and user-friendly applications  
 - 📫 Reach me at **kmustajab89@gmail.com**  
-- 🌐 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/kainat-m-1b28b72a7/)) | [GitHub]([https://github.com/yourusername](https://github.com/kmustajabjava))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kainat-m-1b28b72a7/) | [GitHub](https://github.com/kmustajabjava)
 
 ---
 
@@ -36,10 +36,14 @@ A mobile app for inventory management, loan tracking, and payment handling in co
 - Dynamic forms & multilingual support  
 
 **Tech Stack:** Flutter, Dart, GetX, Dio, REST APIs, Android Studio  
-📷 **Screenshots:**  
-![Cold Storage Screenshot](images/cold1.png)  
-![Cold Storage Screenshot 2](images/cold2.png)  
 
+**📷 Screenshots:**  
+<p align="center">
+  <img src="images/cold1.png" width="200" />
+  <img src="images/cold2.png" width="200" />
+  <img src="images/cold3.png" width="200" />
+  <img src="images/cold4.png" width="200" />
+</p>
 
 </details>
 
@@ -55,8 +59,13 @@ A medical registry app for managing patient data, enabling file uploads, image c
 - File handling with MethodChannel & Android MediaStore  
 
 **Tech Stack:** Flutter, Dart, GetX, Dio, REST APIs, Android Studio  
-📷 **Screenshots:**  
-![Medical App Screenshot](images/med1.png)  
+
+**📷 Screenshots:**  
+<p align="center">
+  <img src="images/med1.png" width="200" />
+  <img src="images/med2.png" width="200" />
+  <img src="images/med3.png" width="200" />
+</p>
 
 </details>
 
@@ -69,15 +78,18 @@ A medical registry app for managing patient data, enabling file uploads, image c
 A smart parking management app with separate customer & admin panels.  
 - Slot availability checking & booking based on time/type (shaded/unshaded)  
 - Real-time slot management with GetX  
-- Payment calculation based on duration  
+- Payment calculation based on duration 
 
 **Tech Stack:** Flutter, Dart, Firebase, Firestore, GetX, Google Maps API, Android Studio  
-📷 **Screenshots:**  
-![ParkEase Screenshot](images/park1.png)  
-![ParkEase Screenshot 2](images/park2.png)  
 
-**Live Demo:** [Demo Link](https://your-demo-link.com)  
-**Code Access:** Available on request.
+**🎥 Demo + Screenshots:**  
+<p align="center">
+  <img src="images/park-demo.gif" width="200" />
+  <img src="images/park1.png" width="200" />
+  <img src="images/park2.png" width="200" />
+  <img src="images/park3.png" width="200" />
+  <img src="images/park4.png" width="200" />
+</p>
 
 </details>
 
@@ -93,10 +105,15 @@ A simple onboarding & authentication app with animations.
 - Animated onboarding screens  
 
 **Tech Stack:** Flutter, Dart, Firebase Auth, Google Sign-In, Android Studio  
-📷 **Screenshots:**  
-![Login App Screenshot](images/login1.png)  
 
-**Code Access:** Available on request.
+**🎥 Demo + Screenshots:**  
+<p align="center">
+  <img src="images/login-demo.gif" width="200" />
+  <img src="images/login1.png" width="200" />
+  <img src="images/login2.png" width="200" />
+  <img src="images/login3.png" width="200" />
+  <img src="images/login4.png" width="200" />
+</p>
 
 </details>
 
@@ -111,35 +128,19 @@ UI design for a modern e-commerce mobile app.
 - Product detail view  
 - Add-to-cart mockup  
 
-**Tech Stack:** Flutter, Dart, Android Studio  
-📷 **Screenshots:**  
-![E-commerce App Screenshot](images/ecom1.png)  
+**Tech Stack:** Flutter, Dart, GetX, Android Studio  
 
-**Code Access:** Available on request.
-
-</details>
-
----
-
-<details>
-<summary>📝 Notes App *(Planned Project)*</summary>
-<br>
-
-A notes management app (planned) with local database storage and animations.  
-- Local data storage using `sqflite`  
-- Smooth UI animations  
-- CRUD operations  
-
-**Tech Stack:** Flutter, Dart, sqflite, Android Studio  
-📷 **Screenshots:** *(Coming soon)*  
-
-**Code Access:** Will be available after completion.
+**🎥 Demo + Screenshots:**  
+<p align="center">
+  <img src="images/ecom-demo.gif" width="200" />
+  <img src="images/ecom1.png" width="200" />
+  <img src="images/ecom2.png" width="200" />
+  <img src="images/ecom3.png" width="200" />
+  <img src="images/ecom4.png" width="200" />
+</p>
 
 </details>
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmustajabjava&layout=compact&theme=tokyonight)
-
----
-
