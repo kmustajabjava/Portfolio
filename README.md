@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-- 💻 Specializing in **Flutter, Firebase, and Full-Stack Web Development**  
+- 💻 Specializing in **Mobile Application Development - Flutter**  
 - 📱 Passionate about building scalable and user-friendly applications  
 - 📫 Reach me at **kmustajab89@gmail.com**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kainat-m-1b28b72a7/) | [GitHub](https://github.com/kmustajabjava)
@@ -131,8 +131,6 @@ UI design for a modern e-commerce mobile app.
 **🎥 Demo + Screenshots:**  
 <p align="center">
   <img src="images/ecom-demo.gif" height="400"/>
-</p>
-<p align="center">
   <img src="images/ecom1.jpg" height="400"/>
   <img src="images/ecom2.jpg" height="400"/>
   <img src="images/ecom3.jpg" height="400"/>
